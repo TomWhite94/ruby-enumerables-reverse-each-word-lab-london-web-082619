@@ -1,4 +1,4 @@
 def reverse_each_word(words)
-  words.reverse{|words| words.sort}
+  words.each{|words|}
   
   end 
